@@ -1,5 +1,1 @@
-const Spinner = () => {
-    return <div className="spin"></div>;
-}
- 
-export default Spinner;
+export const Spinner = () => <div className="spin" ></div>; 
